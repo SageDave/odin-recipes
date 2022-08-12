@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(29, 66, 99);
+    color: white;
+}
+
+ul{
+    list-style:circle;
+}
+
+a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(194, 161, 16);
+    text-align: center;
+}
+
+p,li{
+    font-size: 1.2rem;
+}
+
+.img-container{
+    text-align: center;
+    padding-top: 2rem;
+}
