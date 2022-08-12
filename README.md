@@ -1,0 +1,1 @@
+First Odin project. I forced myself to git in the CLI instead of using a GUI for some reason.
